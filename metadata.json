@@ -1,0 +1,6 @@
+{
+  "name": "AnkaraRefakat - Hastane ve Evde Güvenilir Refakat Hizmetleri",
+  "description": "Ankara genelinde Bilkent Şehir, Hacettepe, İbni Sina ve tüm sağlık kuruluşlarında onaylı, tecrübeli ve şefkatli gündüz refakat ve evde bakım eşlik hizmeti.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
